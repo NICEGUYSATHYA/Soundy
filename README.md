@@ -98,3 +98,4 @@ git push
 
 • You now have more than 10 public commits visible on your profile in 15 mins
 
+Commit 1 line
